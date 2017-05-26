@@ -1,0 +1,1 @@
+data.groupby('education').size().sort_values(ascending=True)
